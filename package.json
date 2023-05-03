@@ -1,0 +1,22 @@
+{
+  "name": "zavrsni",
+  "version": "1.0.0",
+  "description": "API za web stranicu",
+  "main": "api.js",
+  "engines": {
+    "node": "v19.1.0",
+    "npm": "9.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node api.js"
+  },
+  "author": "Ivan Šarac",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongodb": "^5.3.0"
+  }
+}
