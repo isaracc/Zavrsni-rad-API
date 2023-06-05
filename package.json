@@ -4,8 +4,8 @@
   "description": "API za web stranicu",
   "main": "api.js",
   "engines": {
-    "node": "v19.1.0",
-    "npm": "9.5.1"
+    "node": "v20.2.0",
+    "npm": "9.6.6"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -15,7 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
-    "dotenv": "^16.1.1",
+    "dotenv": "^16.1.3",
     "express": "^4.18.2",
     "mongodb": "^5.5.0"
   }
